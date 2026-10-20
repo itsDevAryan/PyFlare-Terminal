@@ -39,6 +39,7 @@ while True:
     2./cat/
     3./joke/
     4./magic/
+    5./coffee/
     5./dance/
     6./help/
     7./exit/
